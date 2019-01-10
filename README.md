@@ -23,7 +23,7 @@ The fourth question :
 balanced queue
 
 The fifth qustion :
-rubik 
+rubik  
 
 The sixth question :
 graph coloring 
