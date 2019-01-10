@@ -28,5 +28,4 @@ rubik
 The sixth question :
 graph coloring 
 
-
 you can run algorithms by defined functions in main just by calling them 
