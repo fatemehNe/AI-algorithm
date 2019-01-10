@@ -5,11 +5,9 @@ import matplotlib.pyplot as plt
 
 import BFS 
 import DFS 
-import LDFS
 import Astar
 import UCS
 import bidirectional
-import IterativeDeepening
 
 import HillClimbing
 import SimulatedAnnealing
@@ -98,4 +96,4 @@ def p6() :
     plt.legend()
     plt.show()
 
-p6()
+
